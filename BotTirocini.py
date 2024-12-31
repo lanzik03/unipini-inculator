@@ -14,9 +14,9 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # Use the commented function below to hardcode the data you need
 '''def get_infos():
-    link = "https://tiromed.med.unipi.it/mod/reservation/view.php?id=22665"
-    username = 606763
-    password = "JordanRetro01!"
+    link = ""
+    username = ""
+    password = ""
     note = ""
     return username, password, link, note'''
 
